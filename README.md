@@ -1,22 +1,33 @@
 # George Wilton
 
-Desenvolvedor Flutter em início de carreira, com foco em aplicações mobile e evolução de projetos próprios.
+### Desenvolvedor de Software | Web, Mobile e Integrações
 
-Trabalho com Flutter e Dart. Meus projetos incluem integrações com Firebase e Supabase, gerenciamento de estado e testes automatizados. Desenvolvo com apoio de Codex e outras ferramentas de IA, com foco em compreender e validar as implementações.
+Desenvolvo aplicações web e mobile com foco em interfaces responsivas, integrações e fluxos de negócio. Trabalho com Flutter/Dart e JavaScript, conectando interfaces a autenticação, bancos de dados e APIs.
 
-## Projeto em destaque
+## Tecnologias demonstradas nos projetos
 
-### [Fluxora](https://github.com/TerribleGeorge/Fluxora)
+- **Mobile e web:** Flutter, Dart, JavaScript, HTML e CSS.
+- **Backend e dados:** Supabase, PostgreSQL, autenticação, políticas de acesso e integrações por API.
+- **Qualidade e entrega:** Git/GitHub, testes, GitHub Actions e publicação web.
+- **IA no desenvolvimento:** utilizo Codex e outras ferramentas como apoio; reviso, compreendo e valido as implementações antes de considerá-las prontas.
 
-Aplicativo de gestão financeira e operacional para negócios de beleza e bem-estar. Utiliza Flutter, BLoC, Provider e Supabase/PostgreSQL. O repositório reúne código, testes e documentação; o produto continua em desenvolvimento.
+## Projetos em destaque
 
-## Foco atual
+| Projeto | O que mostra | Links |
+| --- | --- | --- |
+| **Fluxora** | Aplicação de gestão financeira e operacional para negócios de beleza, com Flutter, Supabase/PostgreSQL, autenticação, agenda e regras de negócio. Está em desenvolvimento. | [Código](https://github.com/TerribleGeorge/Fluxora) · [Portal público](https://terriblegeorge.github.io/fluxora-agendamento/) · [Painel web](https://terriblegeorge.github.io/fluxora-admin/) |
+| **TerribleSpace** | Jogo web interativo criado com JavaScript e Phaser; demonstra interface, eventos e publicação web. | [Código](https://github.com/TerribleGeorge/TerribleSpace) · [Demonstração](https://terrible-space.vercel.app/) |
+| **fluxora-admin** | Build web publicado do painel administrativo do Fluxora. O repositório contém a versão estática de implantação, não o código-fonte completo. | [Repositório](https://github.com/TerribleGeorge/fluxora-admin) · [Demonstração](https://terriblegeorge.github.io/fluxora-admin/) |
+| **fluxora-agendamento** | Portal público de agendamento ligado ao Fluxora. O repositório atual tem documentação mínima; a demonstração é o melhor ponto de avaliação visual. | [Repositório](https://github.com/TerribleGeorge/fluxora-agendamento) · [Demonstração](https://terriblegeorge.github.io/fluxora-agendamento/) |
 
-Desenvolvimento mobile com Flutter, integrações de backend e aprofundamento em testes e organização de aplicações. Meu objetivo é atuar como Desenvolvedor Flutter Júnior ou Desenvolvedor Mobile Júnior.
+## O que posso desenvolver
 
-## Contato e oportunidades
+- Sites institucionais e interfaces web responsivas.
+- Aplicações mobile e web com Flutter.
+- Integrações com APIs, autenticação e bancos de dados.
+- Sistemas internos, dashboards, cadastros, agendas e fluxos operacionais.
 
-- [Portfólio DevVoid](https://www.devvoid.dev.br) — minha marca pessoal.
-- Uberlândia, MG; disponibilidade para trabalho presencial, híbrido ou remoto.
-- Interesse em oportunidades CLT e PJ.
+## Contato
 
+- [DevVoid](https://www.devvoid.dev.br)
+- Uberlândia, MG — remoto, híbrido ou presencial.
